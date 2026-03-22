@@ -10,4 +10,3 @@ public class Main {
         int N= sc.nextInt();
         printsandar(N);
     }
-}
